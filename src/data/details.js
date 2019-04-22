@@ -11,10 +11,10 @@ module.exports = {
   twitter: null,
 
   // Your name
-  name: "Chris Marino",
+  name: "Chris Marino Preview Site",
 
   // The event we are at
-  event: "Easter Egg Hunt",
+  event: "Easter Egg Hunt Preiview site",
 
   // The repository to which this site is linked
   repo : process.env.REPOSITORY_URL
